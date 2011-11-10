@@ -8,8 +8,8 @@ Currently under construction. Check back soon.
 
 Command line:
 
-*  > todomakermaker <framework name>
-*  > <framework name> <TODO application name>
+*  > todomakermaker {framework name}
+*  > {framework name} {TODO application name}
 
 UI:
 
